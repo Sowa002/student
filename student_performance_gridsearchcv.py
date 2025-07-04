@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1vdTqydhvfzFclQ-bXIMD4LkV3IKeoQjm
 """
 
-!pip install catboost
+pip install catboost
 
 import numpy as np
 import pandas as pd
